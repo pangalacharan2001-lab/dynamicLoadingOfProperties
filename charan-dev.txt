@@ -1,0 +1,2 @@
+employee.name=charan
+employee.age=25
